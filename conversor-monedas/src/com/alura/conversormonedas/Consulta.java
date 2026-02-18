@@ -27,5 +27,4 @@ public class Consulta {
             throw new RuntimeException("No se encontró la moneda solicitada.");
         }
     }
-
 }
