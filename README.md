@@ -61,7 +61,8 @@ El código está organizado siguiendo buenas prácticas de POO:
 
 **Melanie Ailén Peralta**
 
-* **Rol:** Estudiante de Desarrollo de Software
+* **Rol:** Estudiante de Tecnicatura Universitaria en Programación
+* **Institución:** Universidad Nacional de Hurlingham
 * **Programa:** Oracle Next Education (ONE) - Alura Latam
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peralta-ailen) 
